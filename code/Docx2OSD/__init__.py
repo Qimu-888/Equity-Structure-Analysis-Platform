@@ -1,0 +1,1 @@
+from .Judge_and_draw_src import Judge_and_draw, extract_table_in_docx, create_train_and_test_set, train_for_finding_tables, downloadreport_year,draw_figure, modify_svg,global_model_version

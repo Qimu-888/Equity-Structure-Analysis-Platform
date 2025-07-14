@@ -1,0 +1,8 @@
+numpy==1.26.4
+torch==2.2.0
+pandas==2.2.0
+ltp==4.2.13
+graphviz==0.20.1
+python-docx==1.1.0
+transformers==4.38.2
+scikit-learn==1.4.1.post1
